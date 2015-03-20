@@ -1,3 +1,4 @@
+we still love CAPS!!!
 # ServiceMonster
 
 A Ruby wrapper for the Service Monster REST API.
